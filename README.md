@@ -17,3 +17,9 @@ Log It is a simple Discord bot which would log some events in your server's chan
 - `Message Update`
 - `Channel Create`
 - `Channel Delete`
+
+# » Want to contribute
+
+Contribute on Patreon
+
+Go Here - https://patreon.com/ashutoshswamy
